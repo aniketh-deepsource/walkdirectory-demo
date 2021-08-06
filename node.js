@@ -1,2 +1,7 @@
-console.log('report me')
-ok()
+function isAdmin(){
+   if(someThing){
+      return true
+   } else {
+      return false
+   }
+}
