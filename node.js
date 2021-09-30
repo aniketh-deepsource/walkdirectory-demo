@@ -1,5 +1,4 @@
 const foo = 1
 
-if(foo){
-   
+if(1){
 }
