@@ -1,7 +1,5 @@
-function isAdmin(){
-   if(someThing){
-      return true
-   } else {
-      return false
-   }
+const foo = 1
+
+if(foo){
+   
 }
