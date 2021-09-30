@@ -1,4 +1,11 @@
-const foo = 1
+function checkSafe(a){
+  if(a > 1){
+     // ...
+  }
+}
 
-if(1){
+const isSafe = checkSafe(2)
+
+if(isSafe){
+  // ...
 }
