@@ -1,7 +1,7 @@
 const calc = require('./calc.js')
 
 
-const add = calc.add
+const add = calc.divide
 
 function checkSafe(a){
   if(a > 1){
